@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ítalo Capuzzo 👋</h1>
 
 <p align="center">
-Estudante de Sistemas de Informação (BSI) | Interesse em Machine Learning & Otimização de Modelos
+Estudante de Sistemas de Informação (UFU) | Interesse em Machine Learning & Otimização de Modelos
 </p>
 
 <p align="center">
