@@ -22,8 +22,6 @@ Implementei multiplicação de matrizes, atenção, consultas de softmax e sele�
 
 Desenvolvo uma pesquisa sobre algoritmos de otimização em um grupo de estudos da Neospace. Propus o AdaSym, inspirado na descoberta simbólica de algoritmos, e estudei variantes da regra de atualização em experimentos com Fashion-MNIST e CIFAR-10.
 
-O repositório apresenta a formulação, os dados disponíveis e comparações exploratórias com AdamW. A pesquisa está em andamento; as conclusões se limitam às condições dos experimentos e não estabelecem superioridade geral do método.
-
 [Pesquisa e resultados](https://github.com/ItaloLRC/optimizer-research)
 
 ## Competições e trabalho em equipe
