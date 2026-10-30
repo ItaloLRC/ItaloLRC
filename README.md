@@ -22,7 +22,9 @@ Implementei multiplicação de matrizes, atenção, consultas de softmax e sele�
 
 Desenvolvo uma pesquisa sobre algoritmos de otimização em um grupo de estudos da Neospace. Propus o AdaSym, inspirado na descoberta simbólica de algoritmos, e estudei variantes da regra de atualização em experimentos com Fashion-MNIST e CIFAR-10.
 
-[Pesquisa e resultados](https://github.com/ItaloLRC/optimizer-research)
+Também implementei uma busca por regras de otimização com programação genética, usando DEAP e PyTorch. O notebook avalia expressões simbólicas em LeNet/MNIST, com seleção, cruzamento, mutação e elitismo, e apresenta a evolução do fitness e as fórmulas selecionadas.
+
+[Pesquisa e resultados](https://github.com/ItaloLRC/optimizer-research) · [Notebook de descoberta simbólica](https://www.kaggle.com/code/italocapuzzo/symbolic-optimizer-discovery-on-mnist-via-gp) · [Código do notebook no GitHub](https://github.com/ItaloLRC/optimizer-research/blob/main/notebooks/symbolic-optimizer-discovery-on-mnist-via-gp.ipynb)
 
 ## Competições e trabalho em equipe
 
