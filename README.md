@@ -20,7 +20,7 @@ Implementei multiplicação de matrizes, atenção, consultas de softmax e sele�
 
 ### Pesquisa em otimizadores (AdaSym)
 
-Desenvolvo uma pesquisa sobre algoritmos de otimização em um grupo de estudos da Neospace. Propus o AdaSym, inspirado na descoberta simbólica de algoritmos, e estudei variantes da regra de atualização em experimentos com Fashion-MNIST e CIFAR-10.
+Desenvolvo uma pesquisa sobre algoritmos de otimização. Propus o AdaSym, inspirado na descoberta simbólica de algoritmos, e estudei variantes da regra de atualização em experimentos com Fashion-MNIST e CIFAR-10.
 
 Também implementei uma busca por regras de otimização com programação genética, usando DEAP e PyTorch. O notebook avalia expressões simbólicas em LeNet/MNIST, com seleção, cruzamento, mutação e elitismo, e apresenta a evolução do fitness e as fórmulas selecionadas.
 
