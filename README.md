@@ -34,4 +34,4 @@ Também implementei uma busca por regras de otimização com programação gené
 
 ## Conhecimentos e estudos
 
-Trabalho nos projetos com **Python, PyTorch, C++ e CUDA**, com foco em treinamento e avaliação de modelos, transformers e algoritmos de otimização. Também estudo fundamentos de quantização e modelos de recomendação sequencial, incluindo nuFormer.
+Trabalho nos projetos com **Python, PyTorch, C++ e CUDA**, com foco em treinamento e avaliação de modelos, transformers e algoritmos de otimização. Também estudo fundamentos de quantização e modelos de recomendação sequencial.
