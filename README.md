@@ -1,37 +1,39 @@
 # Ítalo Capuzzo
 
-Graduando em Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Desenvolvo projetos de machine learning em Python e PyTorch, implemento operações de transformers em CUDA/C++ e pesquiso algoritmos de otimização.
+English | [Português (Brasil)](README.pt-BR.md)
+
+Information Systems undergraduate at the Federal University of Uberlândia (UFU). I develop machine learning projects in Python and PyTorch, implement transformer operations in CUDA/C++, and research optimization algorithms.
 
 [LinkedIn](https://www.linkedin.com/in/italo-capuzzo-03a875286/) · [Hugging Face](https://huggingface.co/itlrc) · [Kaggle](https://www.kaggle.com/italocapuzzo) · [Codeforces](https://codeforces.com/profile/italolrc)
 
-## Projetos em destaque
+## Featured projects
 
 ### GPT-2 Small
 
-Implementei e treinei do zero um modelo de linguagem com arquitetura GPT-2 Small e 124 milhões de parâmetros em Python e PyTorch, usando dados do FineWeb-Edu. O projeto reúne o pipeline de treinamento, os registros de avaliação e as curvas do experimento. Os pesos e o código para carregar o modelo estão publicados no Hugging Face.
+I implemented and trained a language model from scratch with the GPT-2 Small architecture and 124 million parameters in Python and PyTorch, using FineWeb-Edu data. The project includes the training pipeline, evaluation records, and experiment curves. The weights and model loading code are published on Hugging Face.
 
-[Código e treinamento](https://github.com/ItaloLRC/gpt2-small) · [Modelo no Hugging Face](https://huggingface.co/itlrc/gpt2-small)
+[Code and training](https://github.com/ItaloLRC/gpt2-small) · [Model on Hugging Face](https://huggingface.co/itlrc/gpt2-small)
 
-### Kernels CUDA para transformers
+### CUDA kernels for transformers
 
-Implementei multiplicação de matrizes, atenção, consultas de softmax e seleção top-k em CUDA/C++ para os desafios competitivos da Neospace AI. Explorei programação paralela em GPU, tiling em memória compartilhada e vetorização para entender e implementar operações usadas em deep learning.
+I implemented matrix multiplication, attention, softmax queries, and top-k selection in CUDA/C++ for Neospace AI's competitive challenges. I explored parallel GPU programming, shared-memory tiling, and vectorization to understand and implement operations used in deep learning.
 
-[Código e descrição dos desafios](https://github.com/ItaloLRC/cuda-transformer-kernels)
+[Code and challenge descriptions](https://github.com/ItaloLRC/cuda-transformer-kernels)
 
-### Pesquisa em otimizadores (AdaSym)
+### Optimizer research (AdaSym)
 
-Desenvolvo uma pesquisa sobre algoritmos de otimização. Propus o AdaSym, inspirado na descoberta simbólica de algoritmos, e estudei variantes da regra de atualização em experimentos com Fashion-MNIST e CIFAR-10.
+I am researching optimization algorithms. I proposed AdaSym, inspired by symbolic algorithm discovery, and studied variants of its update rule in experiments with Fashion-MNIST and CIFAR-10.
 
-Também implementei uma busca por regras de otimização com programação genética, usando DEAP e PyTorch. O notebook avalia expressões simbólicas em LeNet/MNIST, com seleção, cruzamento, mutação e elitismo, e apresenta a evolução do fitness e as fórmulas selecionadas.
+I also implemented a search for optimization rules using genetic programming with DEAP and PyTorch. The notebook evaluates symbolic expressions on LeNet/MNIST, with selection, crossover, mutation, and elitism, and presents fitness evolution and the selected formulas.
 
-[Pesquisa e resultados](https://github.com/ItaloLRC/optimizer-research) · [Notebook de descoberta simbólica](https://www.kaggle.com/code/italocapuzzo/symbolic-optimizer-discovery-on-mnist-via-gp) · [Código do notebook no GitHub](https://github.com/ItaloLRC/optimizer-research/blob/main/notebooks/symbolic-optimizer-discovery-on-mnist-via-gp.ipynb)
+[Research and results](https://github.com/ItaloLRC/optimizer-research) · [Symbolic discovery notebook](https://www.kaggle.com/code/italocapuzzo/symbolic-optimizer-discovery-on-mnist-via-gp) · [Notebook code on GitHub](https://github.com/ItaloLRC/optimizer-research/blob/main/notebooks/symbolic-optimizer-discovery-on-mnist-via-gp.ipynb)
 
-## Competições e trabalho em equipe
+## Competitions and teamwork
 
-- **NeuroGolf 2026, no Kaggle:** participação em desafios de raciocínio com tarefas ARC-AGI.
-- **2ª Maratona Regional do Cerrado:** participação em equipe de três integrantes, após classificação na seletiva interna da UFU.
-- **Programação competitiva:** resolução de problemas em C++ no [Codeforces](https://codeforces.com/profile/italolrc) e [soluções de problemas do URI Online Judge](https://github.com/ItaloLRC/uriproblems).
+- **NeuroGolf 2026 on Kaggle:** participation in reasoning challenges with ARC-AGI tasks.
+- **2nd Regional Programming Marathon of the Cerrado:** participation in a three-person team after qualifying through UFU's internal selection.
+- **Competitive programming:** solving C++ problems on [Codeforces](https://codeforces.com/profile/italolrc) and [URI Online Judge problem solutions](https://github.com/ItaloLRC/uriproblems).
 
-## Conhecimentos e estudos
+## Skills and studies
 
-Trabalho nos projetos com **Python, PyTorch, C++ e CUDA**, com foco em treinamento e avaliação de modelos, transformers e algoritmos de otimização. Também estudo fundamentos de quantização e modelos de recomendação sequencial.
+I work with **Python, PyTorch, C++, and CUDA** in my projects, focusing on model training and evaluation, transformers, and optimization algorithms. I also study quantization fundamentals and sequential recommendation models.
